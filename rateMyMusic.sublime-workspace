@@ -1,0 +1,1177 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print(\"============self==	."
+			],
+			[
+				"undefine",
+				"undefined"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"_ini",
+				"_initGameListScroll()	LobbyLogic"
+			],
+			[
+				"Lobb",
+				"LobbyLogic	."
+			],
+			[
+				"setZord",
+				"setLocalZOrder(localZOrder)	Node"
+			],
+			[
+				"sch",
+				"scheduler	."
+			],
+			[
+				"MiniGam",
+				"MiniGameManager	."
+			],
+			[
+				"MiniG",
+				"MiniGameManager	."
+			],
+			[
+				"removeFrom",
+				"removeFromParent()	Node"
+			],
+			[
+				"setPosi",
+				"setPosition(x, y)	UILayout"
+			],
+			[
+				"onButt",
+				"onButtonClicked(callback)	UIButton"
+			],
+			[
+				"Lob",
+				"LobbyScene	."
+			],
+			[
+				"Mi",
+				"MiniGameManager	."
+			],
+			[
+				"succ",
+				"successful"
+			],
+			[
+				"hasD",
+				"hasDownloadBiaoqing	."
+			],
+			[
+				"analys",
+				"analyseOnlineParam()	UpdaterManager"
+			],
+			[
+				"fun",
+				"function	."
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"Upda",
+				"UpdateManager	."
+			],
+			[
+				"sett",
+				"setTips(msg)	UpdaterSceneCode"
+			],
+			[
+				"json",
+				"json.decode(text)"
+			],
+			[
+				"CCNa",
+				"CCNative:openURL(url)"
+			],
+			[
+				"showLoad",
+				"showLoadingPercent(done, need)	LoadingSceneCode"
+			],
+			[
+				"devi",
+				"device.platform"
+			],
+			[
+				"Up",
+				"UpdateManager	."
+			],
+			[
+				"onPressbtnU",
+				"onPressbtnUpdateLua()	Updater"
+			],
+			[
+				"dis",
+				"display.cx"
+			],
+			[
+				"setPo",
+				"setPosition(x, y)	CCPhysicsBody"
+			],
+			[
+				"isinter",
+				"network.isInternetConnectionAvailable()"
+			],
+			[
+				"正在",
+				"正在下载最新"
+			],
+			[
+				"setText",
+				"setString(text)	CCTextFieldTTF"
+			],
+			[
+				"Upd",
+				"Updater	."
+			],
+			[
+				"setFram",
+				"setFrameworkVersion(frameworkVersion)	ResourceManager"
+			],
+			[
+				"ccSiz",
+				"cc.SizeMake"
+			],
+			[
+				"ccsi",
+				"cc.SizeMake"
+			],
+			[
+				"checkDow",
+				"checkDownloadStatus()	UpdateManager"
+			],
+			[
+				"m_down",
+				"m_downloadFileLenth"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"Update",
+				"UpdateManager	."
+			],
+			[
+				"removeFromP",
+				"removeFromParentAndCleanup(cleanup)	CCNode"
+			],
+			[
+				"loadPl",
+				"loadPluginsConfig()	MBPluginManager"
+			],
+			[
+				"getPos",
+				"getPosition()	UIStretch"
+			],
+			[
+				"news",
+				"display.newSprite(filename, x, y)"
+			],
+			[
+				"setSca",
+				"setScaleX(fScaleX)	CCNode"
+			],
+			[
+				"loadingBar",
+				"loadingBarBg"
+			],
+			[
+				"Load",
+				"LoadingScene	."
+			],
+			[
+				"initMenu",
+				"initMenuButtonWithSlide()	LobbyScene"
+			],
+			[
+				"setPositionX",
+				"setPositionX(x)	CCNode"
+			],
+			[
+				"Base",
+				"BaseView	."
+			],
+			[
+				"for",
+				"forp	for k,v in pairs()"
+			],
+			[
+				"removePage",
+				"removePageDot()	LobbyScene"
+			],
+			[
+				"removeFr",
+				"removeFromParentAndCleanup(cleanup)	CCNode"
+			],
+			[
+				"framework",
+				"frameworkVersion"
+			],
+			[
+				"addT",
+				"addTo(target, zorder, tag)	CCNodeExtend"
+			],
+			[
+				"unb",
+				"unblockUI()	SceneManager"
+			],
+			[
+				"echo",
+				"echoInfo(fmt, ...)	echoInfo-fmt-"
+			],
+			[
+				"packag",
+				"packageNames	."
+			],
+			[
+				"node",
+				"node_value"
+			],
+			[
+				"ech",
+				"echoInfo(fmt, ...)	echoInfo-fmt-"
+			],
+			[
+				"unB",
+				"unblockUI()	SceneManager"
+			],
+			[
+				"ec",
+				"echoInfo(fmt, ...)	echoInfo-fmt-"
+			],
+			[
+				"distri",
+				"distribution"
+			],
+			[
+				"Lo",
+				"LobbyLogic	."
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"tex",
+				"textarea	<textarea>"
+			],
+			[
+				"stopAll",
+				"stopAllActions()	CCNode"
+			],
+			[
+				"wai",
+				"waitingAni(target, pfunc, tag, view)	SceneManager"
+			],
+			[
+				"tostr",
+				"tostring(e)"
+			],
+			[
+				"CCH",
+				"CCHTTPRequest:createWithUrl(listener, url, method)"
+			],
+			[
+				"prepare",
+				"prepareBatchDownload(versionFiles, tag, gameId, listener)	ResourceManager"
+			],
+			[
+				"start",
+				"start()	DownloadThread"
+			],
+			[
+				"setS",
+				"setStatus(status)	DownloadThread"
+			],
+			[
+				"setAn",
+				"setAnchorPoint(ap)	UILayout"
+			],
+			[
+				"EN",
+				"ENV_OFFICIAL 	."
+			],
+			[
+				"var",
+				"var_dump(data, max_level, prefix)	var_dump-data-max_level-prefix"
+			],
+			[
+				"MB",
+				"MBPluginManager	."
+			],
+			[
+				"setTou",
+				"setTouchEnabled(e)	CCScrollView"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"val",
+				"value	."
+			],
+			[
+				"tolua",
+				"tolua.cast(obj,type)"
+			],
+			[
+				"CCD",
+				"CCDictionary:create()"
+			],
+			[
+				"toLua",
+				"tolua.cast(obj,type)"
+			],
+			[
+				"Pl",
+				"PluginProxy	."
+			],
+			[
+				"CCB",
+				"CCBool(v)	CCBool"
+			],
+			[
+				"kPlu",
+				"kPluginSession 	."
+			],
+			[
+				"onT",
+				"onTempClose()	SocketWrapper"
+			],
+			[
+				"SOC",
+				"SOCKET_RECONNECT_TIME	."
+			],
+			[
+				"write",
+				"writeSubPkgVer(gameId, pkgName, version)	Updater"
+			],
+			[
+				"izx",
+				"izx.resourceManager 	."
+			],
+			[
+				"onRom",
+				"onRemovePage()	BaseView"
+			],
+			[
+				"download",
+				"downloadStatus"
+			],
+			[
+				"setPos",
+				"setPositionX(x)	CCNode"
+			],
+			[
+				"display",
+				"display.cx"
+			],
+			[
+				"setStr",
+				"setString(label)	CCLabelTTF"
+			],
+			[
+				"A",
+				"AudioManager	."
+			],
+			[
+				"getMiniGame",
+				"getMiniGameCfg(gameId, key)	MiniGameManager"
+			],
+			[
+				"MINI",
+				"MINIGAME_IN_DEVELOP_CONFIG 	."
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"removeF",
+				"removeFile(path)	removeFile-path"
+			],
+			[
+				"LoadingS",
+				"LoadingSceneCtrller	."
+			],
+			[
+				"mini",
+				"miniGameCfg"
+			],
+			[
+				"dispa",
+				"dispatchLogicEvent(event)	LobbyLogic"
+			],
+			[
+				"setPack",
+				"setPackage(packageName)	BaseLogic"
+			],
+			[
+				"isDo",
+				"isDownloading"
+			],
+			[
+				"getWi",
+				"getWifiState()	ResourceManager"
+			],
+			[
+				"ver",
+				"versionReady"
+			],
+			[
+				"left",
+				"leftClock"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"resou",
+				"resourceManager"
+			],
+			[
+				"img",
+				"img_url"
+			],
+			[
+				"stateIn",
+				"stateInMiniGame"
+			],
+			[
+				"close",
+				"close()	LuaSockets"
+			],
+			[
+				"cue",
+				"currentState"
+			],
+			[
+				"state",
+				"stateInRealGame"
+			],
+			[
+				"curr",
+				"currentState"
+			],
+			[
+				"Log",
+				"LoginSceneCtrller	."
+			],
+			[
+				"getPo",
+				"getPosition()	UIStretch"
+			],
+			[
+				"CCC",
+				"CCControlButton"
+			],
+			[
+				"need",
+				"needUpgrade"
+			],
+			[
+				"modu",
+				"moduleName"
+			],
+			[
+				"lobby",
+				"lobbyLogic"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 332.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"md",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inp",
+				"InputHelper"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/data/Codes/rateMyMusic"
+	],
+	"file_history":
+	[
+		"/data/Codes/rateMyMusic/rateMyMusic",
+		"/data/Codes/newDdz/client/scripts/plugins/fake/PluginSession.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/fake/PluginPush.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/fake/PluginPlatform.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/fake/PluginIAPSms.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/fake/PluginIAP.lua",
+		"/data/Codes/newDdz/client/scripts/izxFW/MBPluginManager.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/android/PluginIAP.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/android/PluginIAPSms.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/android/PluginPlatform.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/android/PluginPush.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/android/PluginSession.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/fake/PluginExtend.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/android/PluginExtend.lua",
+		"/data/Codes/newDdz/client/scripts/izxFW/PluginProxy.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/PluginIAPSms.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/PluginIAP.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/PluginExtend.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/ios/PluginSession.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/ios/PluginPush.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/ios/PluginPlatform.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/ios/PluginIAPSms.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/ios/PluginIAP.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/ios/PluginExtend.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/PluginSession.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/PluginPush.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/PluginProxy.lua",
+		"/data/Codes/newDdz/client/scripts/plugins/PluginPlatform.lua",
+		"/data/Codes/newDdz/client/scripts/config.lua",
+		"/data/Codes/newDdz/webServer/application/config/server/local.config.php",
+		"/data/Codes/newDdz/webServer/wwwroot/s.php",
+		"/data/Codes/newDdz/webServer/index.html",
+		"/data/Codes/newDdz/webServer/framework/functions/common/base.func.php",
+		"/data/Codes/newDdz/webServer/application/systems/main/modules/index/index.php",
+		"/data/Codes/newDdz/webServer/application/config/application.config.php",
+		"/data/Codes/newDdz/webServer/framework/processes/base_init.process.php",
+		"/data/Codes/newDdz/client/scripts/izxFW/BaseLogic.lua",
+		"/data/Codes/newDdz/client/scripts/configold.lua",
+		"/data/Codes/newDdz/client/scripts/configTX.lua",
+		"/data/Codes/newDdz/client/scripts/configMatch.lua",
+		"/data/Codes/ddz_h5/game/MyJSGame/index.html",
+		"/data/Codes/ddz_h5/game/MyJSGame/interfaces/personalScene.html",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/lib/lib.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/css/main.css",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/game.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/res/baseRes/preload/init.json",
+		"/data/Codes/ddz_h5/game/MyJSGame/project.json",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/init.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleLobby/logics/MyBaseLogic.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/config.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleLobby/logics/LobbyLogic.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/BaseLobbyLogic.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/BaseLogic.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleDdz/logics/GameLogic.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/common.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/BaseCtrller.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/AudioManager.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleDdz/views/testScene.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleDdz/views/mainScene.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleDdz/views/loadingScene.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/frameworks/cocos2d-html5/CCBoot.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/BaseFunctions.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/res/baseRes/interfaces/lobbyScene.html",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleLobby/logics/AudioConfig.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleLobby/logics/PicConfig.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/BaseView.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/BaseObject.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/BasePage.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/izxFW/SceneManager.js",
+		"/data/Codes/ddz_h5/game/tools/transLua2Js.pl",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/moduleDdz/logics/loadItems.json",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/lib/thickbox.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/js/lib/require.js",
+		"/data/Codes/ddz_h5/game/MyJSGame/src/app.js",
+		"/home/guojia/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/data/Codes/ddz_lua/debug.log",
+		"/data/Codes/ddz_lua/scripts/config.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/ctrllers/LobbyScene.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/LobbyScene.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/logics/LobbyLogic.lua",
+		"/data/Codes/ddz_lua/proj.android/build_zip_native.sh",
+		"/data/Codes/ddz_lua/scripts/izxFW/MiniGameManager.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/logics/LobbyGameLogic.lua",
+		"/data/Codes/ddz_lua/scripts/izxFW/BasePage.lua",
+		"/data/Codes/ddz_lua/scripts/distribution.lua",
+		"/data/Codes/the9demo/demo2/index.html",
+		"/data/Codes/ddz_lua/scripts/moduleZJH/views/GameScene.lua",
+		"/data/Codes/ddz_lua/scripts/izxFW/UpdateManager.lua",
+		"/data/Codes/ddz_lua/proj.android/assets/res/baseRes/plugins.plist",
+		"/data/Codes/upgrade.37991.readme.txt",
+		"/data/Codes/ddz_lua/scripts/version_control.lua",
+		"/data/Codes/the9demo/swiper/Swiper-2.7.0/demos/17-responsive.html",
+		"/data/Codes/the9demo/swiper/Swiper-2.7.0/demos/02-vertical-mode.html",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/BiSaiChangScene.lua",
+		"/data/Codes/ddz_lua/scripts/gap.lua",
+		"/data/Codes/ddz_lua/framework/cc/ui/UIButton.lua",
+		"/data/Codes/ddz_lua/framework/ui.lua",
+		"/data/Codes/ddz_lua/framework/cc/ui/UILabel.lua",
+		"/data/Codes/ddz_lua/scripts/izxFW/LuaSockets.lua",
+		"/data/Codes/ddz_lua/scripts/izxFW/BaseView.lua",
+		"/data/Codes/ddz_lua/scripts/izxFW/BaseFunctions.lua",
+		"/data/Codes/ddz_lua/scripts/moduleZJH/logics/GameLogic.lua",
+		"/data/Codes/ddz_lua/scripts/moduleDdz/views/LotteryDraw.lua",
+		"/data/Codes/ddz_lua/scripts/moduleDdz/views/GameScene.lua",
+		"/data/Codes/ddz_lua/scripts/moduleDdz/logics/GameLogic.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/UpdaterSceneCode.lua",
+		"/data/Codes/ddz_lua/scripts/izxFW/ResourceManager.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/ctrllers/LoadingSceneCode.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/LoadingSceneCode.lua",
+		"/data/Codes/DDZ_ALL/workspace/trunk/BDMobile/BDCasino/DDZ_LUA/branches/ddz_854/scripts/izxFW/BaseFunctions.lua",
+		"/data/Codes/ddz_lua/scripts/izxFW/PacketDefine.lua",
+		"/data/Codes/the9demo/dist/index.html",
+		"/data/Codes/ddz_lua/scripts/izxFW/CCJReader.lua",
+		"/data/Codes/ddz_lua/scripts/izxFW/SceneManager.lua",
+		"/data/Codes/ddz_lua/res/baseRes/images/DaTing.plist",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/NewDengLuLayer.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/MeiRiBiZuoLayer.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/FreeCoinLayer.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/FakeLoadingSceneCode.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/DengLuJiangLiLayer.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/ChongZhiJiangLiLayer.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/BiSaiFailScene.lua",
+		"/data/Codes/ddz_lua/scripts/moduleDdz/views/NewJieSuanLayer.lua",
+		"/data/Codes/ddz_lua/scripts/moduleDdz/views/JieSuanLayer.lua",
+		"/data/Codes/ddz_lua/scripts/moduleDdz/views/ChatLayer.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/WaterHole.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/MiniGameList.lua",
+		"/data/Codes/ddz_lua/scripts/moduleLobby/views/LoginScene.lua"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/data/Codes/newDdz",
+			"<project>",
+			"/data/Codes/ddz_h5/game/MyJSGame/",
+			"/data/Codes/ddz_h5/game/MyJSGame/frameworks",
+			"/data/Codes/ddz_lua/scripts",
+			"/data/Codes/ddz_lua/framework",
+			"/data/Codes/ddz_lua/scripts",
+			"<project>",
+			"/data/Codes/ddz_lua/sources",
+			"/data/Codes/ddz_lua/framework",
+			"/data/Codes/ddz_lua/scripts",
+			"/data/Codes/ddz_lua/framework",
+			"/data/Codes/ddz_lua/scripts",
+			"/data/Codes/ddz_lua/framework",
+			"<project>",
+			"/data/Codes/quick/quick-cocos2d-x/framework/framework",
+			"<project>",
+			"/data/Codes/ddz_lua/scripts/",
+			"/data/Codes/ddz_lua/",
+			"/data/Codes/ddz_lua/scripts",
+			"/data/Codes/ddz_lua/scripts/moduleDdz",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"<project>",
+			"/data/Codes/ddz_lua/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/framework",
+			"<project>",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"<project>",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/sources",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/sources",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/sources",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/script",
+			"/data/Codes/jsddz/sources",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/framework",
+			"<project>",
+			"/data/Codes/jsddz/scripts/moduleLaba",
+			"<project>",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/sources",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/scripts/izxFW",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"<project>",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/sources",
+			"<project>",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/sources",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"<open folders>",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/jsddz/scripts",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/quick/quick-cocos2d-x/samples/cocos2dx_luatest",
+			"/data/Codes/jsddz/framework",
+			"/data/Codes/quick/quick-cocos2d-x/samples",
+			"/data/Codes/jsddz/framework"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctor",
+			"initPlugin",
+			"mongo.func.php",
+			"mongo",
+			"mongodb",
+			"    \n",
+			"GETFUNCTIONSTATUS",
+			"refreshConfig",
+			"GETFUNCTIONSTATUS",
+			"nil",
+			"require",
+			"IE",
+			"BasePage.PAGE_TYP_CCB",
+			"/\\--/\\/\\//;",
+			"/&&/;",
+			"()",
+			"~=",
+			"and",
+			"or",
+			"..",
+			":([^f])",
+			":",
+			"local",
+			"--",
+			"then",
+			"end",
+			"function\\s.*:(\\w+)\\((.*)\\)",
+			"end",
+			"function\\s.*:(\\w+)\\((.*)\\)",
+			"self",
+			"}\n",
+			"nil",
+			"--",
+			"self",
+			"echoErr",
+			"jsList",
+			"sunrise",
+			"_createScript",
+			"jsList",
+			" = ",
+			"BaseLogic.",
+			"startGame",
+			"=\",",
+			"',{})\">",
+			"(\"\")",
+			"minGameScroll",
+			"initPageDot",
+			"disablezjh",
+			"disableZJH",
+			"unPackPacket",
+			"error",
+			"NEED_ZJH",
+			"startMiniGame",
+			"SocketConfigList",
+			"PLUGINS_GAMES",
+			"MiniGameManager",
+			"new MiniGameManager",
+			")\n",
+			"miniGameCfg",
+			"getMiniGameListHTTPConfig",
+			"configMainGames",
+			"ddz/test",
+			"targetPath",
+			"APP_UPDATE_INIT_ALL",
+			"UpdateManager:runMain has runned",
+			"bind",
+			"setBaoXiangSprite(true)",
+			"setBaoXiangSprite",
+			"self.nodeGonggao:addTouchEventListener",
+			"press back!!!!!!!",
+			"press back on",
+			"press back on LobbyScene",
+			"scheduler",
+			"showGameLists",
+			"()",
+			"inGamelist",
+			"goBackToMain",
+			"onPressHappyField",
+			"v.",
+			"v.game_id",
+			"                \n",
+			"            \n",
+			"btn_move",
+			"newSprite",
+			"onPressBtnMove",
+			"spriteLogo",
+			"gBaseLogic.inGamelist",
+			"pcall",
+			"startGameByTypLevel2",
+			"startGameByTypLevel",
+			"getGameModuleByGameid",
+			"startGame",
+			"curSocketConfigList",
+			"startGamesocket",
+			"findSockconfigByGameId",
+			"startGame",
+			"findSockconfig",
+			"game_server_datas",
+			"7282",
+			"pt_cl_get_server_status_req",
+			"get_server_status_ack",
+			"pt_lc_get_server_status_ack_handler",
+			"MINIGAME_CONFIG",
+			"rand",
+			"newTTFLabel",
+			"setButtonLabel",
+			"    end\nsetButtonLabel",
+			"setButtonLabel",
+			"UIPushButton",
+			"    \n",
+			"display.newNode",
+			"node.new",
+			"showGameLists",
+			"onPressHappyField",
+			"onPressZJH",
+			"thisButton:onButtonClicked(function(event)\n            --     echoInfo(\"thisButton:onButtonClicked %d\",v.id)\n            --     self:onPressStartMainGame(v.id);\n            --     end\n            -- );",
+			"14090401",
+			"frameworkVersion",
+			"frameworkversion",
+			"framework",
+			"UIPushButton",
+			"onPressStartMainGame",
+			"startMiniGame",
+			"end",
+			"zhajinhua",
+			"configMainGames",
+			"disablezjh",
+			"-----------clickSprite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"null",
+			"BasePage_PAGE_TYP_CCB",
+			"!=",
+			"&&",
+			"||",
+			"+",
+			".\\1",
+			".",
+			"var",
+			"//",
+			"{",
+			"}",
+			",\n\\1:function(\\2){",
+			",\\1:function(\\2){",
+			"},\\1:function(\\2){",
+			"this",
+			"null;",
+			"//",
+			"this",
+			":",
+			"",
+			"ddz/mirror/3.1.0.2.360",
+			"info.",
+			"game_id",
+			"DESIGN_RATIO",
+			"#",
+			"#list_btn_",
+			"checkImageType",
+			"$thisPath",
+			"APP_IOS_ROOT",
+			"gBaseLogic.MBPluginManager",
+			"self.",
+			"UpdaterSceneCode",
+			"UpdaterSceneCodeCtrller",
+			"UpdaterSceneCode",
+			"listener.downloadInfo[",
+			"self.downloadInfo[",
+			"LoadingSceneCode",
+			"LoadingSceneCodeCtrller",
+			"self.",
+			"FakeLoadingSceneCodeCtrller",
+			"FakeLoadingSceneCode",
+			"UpdateManager",
+			"slideIn=\"bottom\"",
+			"BasePageViewLayer",
+			"analytics_",
+			"self.analytics_",
+			"PageView",
+			"PAGEVIEW",
+			"",
+			"CSockets",
+			"this",
+			"",
+			"self.listenInfo",
+			"DownloadRequest",
+			"DOWNLOAD_REQUEST",
+			"prepareRelogin",
+			"--",
+			"Resouce_HTTP_REQUEST",
+			"NewHelpSceneCtrller",
+			"NewHelpScene",
+			"<tr>\n                    <th>\\1</th>\n                    <td>\\2</td>\n                </tr>",
+			"h4",
+			"h3",
+			"未登录",
+			"\\1=\\2,",
+			"LoginTypeLayerCodeCtrller",
+			"LoginTypeLayerCode",
+			"self:onError",
+			"downloadStatus",
+			"mainGameCfg",
+			"mainGameRes_",
+			"mainGameCode_",
+			"mainGameCfg",
+			"CASINO_VERSION_DEFAULT",
+			"self.listener[gameId]:onBatchDownloadFinish",
+			"izx.miniGameManager.miniGameCfg",
+			"miniGameInfo",
+			"self.mainGameDownloader[name]",
+			"Updater",
+			"",
+			"mainGameCfg",
+			"function LobbyGameLogic:",
+			"FileManager",
+			"FakeLoadingScene",
+			"FakeLoadingSceneCtrller",
+			"dispatchLogicEvent",
+			"DownloadManager",
+			"__DDZ__DownloadManager__",
+			"MeiRiBiZuoLayer",
+			"ResourceManager",
+			"SceneManager",
+			"self",
+			"data",
+			"self",
+			"self.",
+			"print(\"cocos2dx lua: xxx\");",
+			"inByte",
+			"0x\\1 = 0x\\2,",
+			"{[\"name\"]=\"\\1\",[\"path\"]=\"sounds/\\2.mp3\"},",
+			"",
+			"PluginProxy",
+			"PluginProxy\n",
+			"\":\"\n",
+			"\",\"\n",
+			"\",",
+			"totalRecvPack",
+			"type	=",
+			"GameLogic:pt",
+			"end\\nfunction LobbyLogic:\\1_handler(message)",
+			"\"\\1\"",
+			"\\1 = '',",
+			"},",
+			" {",
+			"\\1 = ",
+			"GongGaoLayer",
+			"LuaSockets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 198.0
+	},
+	"project": "rateMyMusic.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"onSendPing",
+				"BaseGameLogic:onSendPing"
+			]
+		],
+		"width": 669.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
